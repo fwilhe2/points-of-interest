@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Freundschaftsinsel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.065509498119354,
+                    52.39520646198322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Park Babelsberg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.090016841888426,
+                    52.40871056456747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brauhausberg Havelblick"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.060576915740967,
+                    52.387714583226014
+                ]
+            }
+        }
+    ]
+}
