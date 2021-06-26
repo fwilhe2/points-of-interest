@@ -39,6 +39,58 @@
                     52.387714583226014
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hermannswerder"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0402672290802,
+                    52.387095795729934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schloss Sanssouci"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.038454055786133,
+                    52.40418620148825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sacrow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.094791173934937,
+                    52.42442686951265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Neuer Garten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06986004114151,
+                    52.41248351214301
+                ]
+            }
         }
     ]
 }
